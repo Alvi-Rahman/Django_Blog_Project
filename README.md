@@ -2,7 +2,7 @@
 
 ## Features:
 	
-	*Basic HTML,CSS,Bootstrap
+	* Basic HTML,CSS,Bootstrap
 	* Admin Panel Control
 	* Login/Sign Up
 	* Create/edit/Delete Blog Posts
